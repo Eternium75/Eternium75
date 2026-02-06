@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2DD4BF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Emircan+%C3%87a%C4%9Flsn;Freelance+Developer;Creative+Coder;Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2DD4BF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Emircan+%C3%87a%C4%9Fl%C4%B1n;Freelance+Developer;Creative+Coder;Automation+Expert" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://github.com/Eternium75">
